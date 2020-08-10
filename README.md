@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Enzo's github stats](https://github-readme-stats.vercel.app/api?username=enzodanjour&count_private=true)
 <!--
 **enzodanjour/enzodanjour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
