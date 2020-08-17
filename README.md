@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter Modular, Docker, and implantation pipeline.**
 
-- 👨‍💻 All of my projects are available at [https://gitlab.com/enzo.danjour](https://gitlab.com/enzo.danjour)
+- 👨‍💻 All of my projects are available at [https://gitlab.com/enzo.danjour] or [https://github.com/enzodanjour](https://gitlab.com/enzo.danjour) (https://github.com/enzodanjour)
 
 - 💬 Ask me about **Devops on flutter**
 
