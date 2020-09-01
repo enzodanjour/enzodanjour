@@ -1,4 +1,3 @@
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <h1 align="center">Hi 👋, I'm Enzo Danjour</h1>
 <h3 align="center">A passionate to enterpernership, devops,and mobile developer from Brazil</h3>
 
@@ -20,4 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enzodanjour&show_icons=true" alt="enzodanjour" /></p>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="enzo-danjour"><a class="LI-simple-link" href='https://br.linkedin.com/in/enzo-danjour?trk=profile-badge'>Enzo Danjour</a></div>
+<p align="center">
+<a href="https://linkedin.com/in/enzo-danjour/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="enzo-danjour/" height="30" width="30" /></a>
+</p>
