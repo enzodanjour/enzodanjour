@@ -20,6 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enzodanjour&show_icons=true" alt="enzodanjour" /></p>
 
-<p align="center">
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="enzo-danjour"><a class="LI-simple-link" href='https://br.linkedin.com/in/enzo-danjour?trk=profile-badge'>Enzo Danjour</a></div>
-</p>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="enzo-danjour"><a class="LI-simple-link" href='https://br.linkedin.com/in/enzo-danjour?trk=profile-badge'>Enzo Danjour</a></div>
