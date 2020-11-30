@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=enzodanjour" alt="enzodanjour" /> </p>
 
-- 🔭 I’m currently working on [pagow](https://pagow.app/)
+- 🔭 I’m currently not working.
 
 - 🌱 I’m currently learning **Flutter Modular, Docker, and implantation pipeline.**
 
