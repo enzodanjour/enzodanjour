@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/enzo.danjour](https://gitlab.com/enzo.danjour) or [https://github.com/enzodanjour](https://github.com/enzodanjour)
 
-- 💬 Ask me about **Devops on flutter**
+- 💬 Ask me about **flutter**
 
 - 📫 How to reach me **enzo.danjour@gmail.com**
 
