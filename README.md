@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=enzodanjour" alt="enzodanjour" /> </p>
 
-- 🔭 I’m currently Working on HOUSEASY.
+- 🔭 .
 
 - 🌱 I’m currently learning **Flutter Modular, Docker, and implantation pipeline.**
 
