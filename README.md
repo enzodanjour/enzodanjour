@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Trigg](https://www.trigg.com.br/).
 
-- 🌱 I’m currently learning **Flutter Modular, Docker, and implantation pipeline.**
+- 🌱 I’m currently learning **Flutter.**
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/enzo.danjour](https://gitlab.com/enzo.danjour) or [https://github.com/enzodanjour](https://github.com/enzodanjour)
 
