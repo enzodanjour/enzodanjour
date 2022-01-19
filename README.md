@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=enzodanjour" alt="enzodanjour" /> </p>
 
-- 🔭 I’m currently working on [Trigg](https://www.trigg.com.br/).
+- 🔭 I’m currently working on [Trigg](https://www.trigg.com.br/) with flutter.
 
-- 🌱 I’m currently learning **Flutter.**
+- 🌱 I’m currently learning **NODE.**
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/enzo.danjour](https://gitlab.com/enzo.danjour) or [https://github.com/enzodanjour](https://github.com/enzodanjour)
 
