@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=enzodanjour" alt="enzodanjour" /> </p>
 
-- 🔭 I’m currently working on [Trigg](https://www.trigg.com.br/) with flutter.
+- 🔭 I’m currently working on [Fuston](http://www.fuston.com.br/) in the development of a B2B2C credit and banking platform with flutter.
 
 - 🌱 I’m currently learning **NODE.**
 
